@@ -1,18 +1,30 @@
 .HP_about {
 	
 }
+h1, h2, h3, h4, h5 {
+	font-family: "Arial Rounded MT Bold", "Helvetica Rounded", "Arial", sans-serif;
+}
 .article_options {
 
 }
 .Col-1 {
+	background-image: url("images/family.jpg");
+	height: 500px;
+	width: 750px;
+
 
 }
 .Col_img {
 
 }
 .Col-2 {
-
+	background-image: url("images/adventure.jpg");
+	height: 500px;
+	width: 750px;
 }
 .handraiser {
 
+}
+p {
+	font-family: "Calibri";
 }
