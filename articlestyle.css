@@ -51,7 +51,17 @@ p {
 	width: 50%;
 	height: 300px;
 }
-.WYR_banner {
+.subject_photo_2 {
+	background-image: url("images/adventure.jpg");
+	background-position: top;
+	overflow: hidden;
+	position: relative;
+	background-repeat: none;
+	margin: 0 auto;
+	width: 50%;
+	height: 300px;
+}
+.ext_banner {
 	margin: 0 auto;
 	padding-top: 10px;
 	padding-bottom: 2px;
@@ -121,7 +131,7 @@ nav {
 ul {
 	list-style-type: none;
 }
-li {
+nav ul li {
 	display: inline;
 	font-family: "Arial Rounded MT Bold", "Helvetica Rounded", "Arial", sans-serif;
 	font-size: 20px;
@@ -134,5 +144,8 @@ li a {
 }
 li a:hover {
 	color: #00B28F;
+}
+ol li {
+	font-family: "Arial Rounded MT Bold", "Helvetica Rounded", "Arial", sans-serif;
 }
 
